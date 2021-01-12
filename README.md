@@ -23,7 +23,7 @@ The dataset contains the following:
 
   1. Shapefiles Boundaries of Districts and Sub-Counties in Uganda Karamoja.
 
-  2. Numerical data as .csv files detailing the production of maize and sorghum in the Districs and Sub-Counties.
+  2. Numerical data as .csv files detailing the production of maize and sorghum in the Districts and Sub-Counties.
 
 # Overview
 
