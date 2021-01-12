@@ -19,9 +19,11 @@ The following link provides access to the resources used in this data visualizat
 
 Datasets used for this analysis can be accessed here: https://archive.org/download/data_20190829/DATA.zip
 
-  Shapefiles Boundaries of Uganda Subcounties Boundaries of Uganda Districts and Sub-Counties.
+The dataset contains the following:
 
-  Numerical data detailing the production of maize and sorghum in the Districs and Sub-Counties.
+  1. Shapefiles Boundaries of Uganda Subcounties Boundaries of Uganda Districts and Sub-Counties.
+
+  2. Numerical data detailing the production of maize and sorghum in the Districs and Sub-Counties.
 
 # Overview
 
