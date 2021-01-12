@@ -1,7 +1,7 @@
 # Data-Visualization-for-Uganda-Karamoja-Food-Security.
 Data Visualization developed by Dalberg Data Insights to assist NGOs working in Uganda Karamoja in decision making to improve food security in the area.
 #
-#Resources
+Resources
 
 #The following links provide access to the resources used in this data visualization exercise.
 #Datasets used for this analysis can be accessed here: https://archive.org/download/data_20190829/DATA.zip
