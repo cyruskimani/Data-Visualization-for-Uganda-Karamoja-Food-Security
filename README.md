@@ -7,17 +7,27 @@ The visualization for this analysis was done in Tableau.
 
 The Tableau workbook can be accessed here:https://public.tableau.com/profile/cyrus.kimani#!/vizhome/KaramojaDatasetAnalysis-Week1IPCyrusKimani/Districts
 
+# VIsualization
+
+A Tableau dashboard containing maps to present the dataset as analyzed.
+
+The results have been visualized by district and by Sub-County which are the two administrative levels used by the NGOs.
+
 # Resources
 
 The following link provides access to the resources used in this data visualization exercise.
 
 Datasets used for this analysis can be accessed here: https://archive.org/download/data_20190829/DATA.zip
 
+  Shapefiles Boundaries of Uganda Subcounties Boundaries of Uganda Districts and Sub-Counties.
+
+  Numerical data detailing the production of maize and sorghum in the Districs and Sub-Counties.
+
 # Overview
 
-Karamoja (https://en.wikipedia.org/wiki/Karamoja) is the most food-insecure region of Uganda. One of the main reasons is the low productivity level of the crops due to intense droughts as well as pest and disease outbreaks.
+Karamoja (https://en.wikipedia.org/wiki/Karamoja) is a food-insecure region of Uganda whose low food productivity is caused by intense droughts as well as pest and disease outbreaks.
 
-In Karamoja, several NGOs provide technical support as well as farm inputs to the farmers experiencing extremely low yield. Though, they lack visibility into the overall state of the region and often need to rely on some very local sources of information to prioritize their activities.
+Several NGOs in Karamoja provide technical support and farm inputs to farmers in a bid to suppress the food insecurity problem. However, they lack visibility into the overall state of the region and often need to rely on some very local sources of information to prioritize their activities.
 
 Dalberg Data Insights (DDI) has been requested to develop a new food security monitoring tool to support the decision making of one of those NGOs active in Karamoja.
 
